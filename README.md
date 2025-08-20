@@ -25,7 +25,7 @@ Quote-Generator/
 ## ⚡ How to Run Locally
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/quote-generator.git
+   git clone https://github.com/shayan-qazmi/quote-generator.git
 ````
 
 2. Open the folder in your editor.
